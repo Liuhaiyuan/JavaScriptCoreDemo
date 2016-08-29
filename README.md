@@ -2,11 +2,12 @@
 > Evaluate JavaScript programs from within an app, and support JavaScript scripting of your app.
 > 评估JavaScript程序从内部应用程序,支持JavaScript应用程序的脚本。
 
-##Overview（概述）
+##Overview（概述）/ 前言
 > The JavaScriptCore Framework allows you to evaluate JavaScript programs from within an Objective-C or C-based program. It also lets you insert custom objects to the JavaScript environment.
 
 > JavaScriptCore框架允许您从内部评估JavaScript程序一个objective - c或基于c的程序。它还允许您插入自定义对象的JavaScript环境。
 
+在目前进行的HTML5开发时，经常会进行JavaScript与原生代码之间的交互，该框架即是主要处理交互的框架。
 
 ## Class
 ### JSContext
